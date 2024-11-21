@@ -1,1 +1,2 @@
-docs/assets/netlify_auth_token.txt
+assets/*.txt
+.gitignore
